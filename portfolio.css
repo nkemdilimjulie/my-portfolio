@@ -1,0 +1,111 @@
+.myface {
+        padding: 30px;
+        margin-right: 1350px;
+        margin-left: 30px;
+        margin-top: 0px;
+        border: 8px outset;
+
+
+
+}
+
+
+.general-background {
+
+        border-color: aquamarine;
+        border: 200px
+        margin-left: 100px;
+        margin-top: 20px
+        padding-left: 30px;
+        background-color: #ac4b4b;
+  
+  }
+  
+.span1 {
+       color: #19eb19;
+  
+  
+  }
+  
+p {
+  
+       color: #f1fcef;
+       padding: 20px;
+       margin: 5px;
+       border: inherit;
+       font-size: x-large;
+  }
+
+.career {
+
+        text-align: center;
+        color: #f1fcef;
+       padding: 20px;
+       margin: 5px;
+       border: inherit;
+       font-size: x-large;
+
+}
+
+.div-career {
+
+        text-align: center;
+        font-size: larger;
+        
+}
+
+.others {
+
+        text-align: right;
+        font-size: larger;
+}
+
+\* other-interest {
+
+        text-align: right \*
+}
+
+h1 {
+        color: rgba(239, 243, 245, 0.904);
+        padding-left: 35px;
+        padding-top: 10px;
+        font-size: xx-large;
+
+  }
+
+
+h2 {
+        color: rgba(239, 243, 245, 0.904);
+        text-align: center;
+
+
+}
+
+.paragf-hobby {
+
+
+
+}
+
+
+h1:hover {
+
+        color: aqua;
+
+  }
+
+h2:hover {
+
+        color: aqua;
+}
+
+.myface:hover {
+
+
+        color: aqua;
+}
+
+p:hover {
+
+        color: aqua;
+}
